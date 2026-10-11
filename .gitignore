@@ -7,7 +7,6 @@
 audit/
 demo-audit/
 trees/
-.env
 
 # Internal docs (not for public repo)
 product-overview*.md
@@ -26,10 +25,11 @@ models/
 *.swo
 *~
 .idea/
-.vscode/
 
 # Claude session data
 .claude/
 .reflect/
 .fastembed_cache/
 .illuminate/
+config.bat
+node_modules
